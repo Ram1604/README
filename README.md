@@ -4,7 +4,7 @@
  <div>
   <a href="https://github.com/Ram1604">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram1604&layout=compact&langs_count=16&theme=dracula"/>
-
+   <img src="https://myreadme.vercel.app/api/embed/Ram1604?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
  
  ## Skills
