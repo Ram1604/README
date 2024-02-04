@@ -1,9 +1,8 @@
 ## Hi, I am Ramesh Sudhan! 
 </br>
-
  <div>
   <a href="https://github.com/Ram1604">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ram1604&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ram1604&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /><br>
    <img src="https://myreadme.vercel.app/api/embed/Ram1604?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
  
