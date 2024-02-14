@@ -38,7 +38,7 @@
  </br>
 </br>
  
-## Trophy
+## Trophys
 <div>
  
  <img src="https://github-profile-trophy.vercel.app/?username=Ram1604&theme=juicyfresh&no-bg=true" />
