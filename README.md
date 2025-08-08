@@ -42,8 +42,8 @@
 
 <h3 align="center">Contributed to the <a href="https://github.com/terraform-google-modules/terraform-google-pubsub">Terraform Google Cloud Pub/Sub Module </a>, helping improve infrastructure-as-code for the community.<br></br>
 <p align="left"> ✦ <a href="https://github.com/terraform-google-modules/terraform-google-pubsub/pull/255">PR255</a> 🔐 Enabled Principle of Least Privilege by making project-level bash "roles/storage.admin" optional via a configuration flag. </p>
-<p align="left"> ✦ <a href="https://github.com/terraform-google-modules/terraform-google-pubsub/pull/255">PR 249</a> 🛠️  Enhanced push subscriptions with support for no-wrapper and write-metadata for better message and metadata control. </p>
-<p align="left"> ✦ <a href="https://github.com/terraform-google-modules/terraform-google-pubsub/pull/255">PR238 </a> ♻️ Enabled dead-lettering in Cloud Storage and BigQuery subscriptions by adding max_delivery_attempts support. </p>
+<p align="left"> ✦ <a href="https://github.com/terraform-google-modules/terraform-google-pubsub/pull/249">PR 249</a> 🛠️  Enhanced push subscriptions with support for no-wrapper and write-metadata for better message and metadata control. </p>
+<p align="left"> ✦ <a href="https://github.com/terraform-google-modules/terraform-google-pubsub/pull/238">PR238 </a> ♻️ Enabled dead-lettering in Cloud Storage and BigQuery subscriptions by adding max_delivery_attempts support. </p>
 </h3>
 
 
