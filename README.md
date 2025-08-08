@@ -3,25 +3,12 @@
 </p>
 
 <h1 align="center">
-  Hi <font style="color : cyan"><i>GitHubers!</i></font>
+  Hi <code><i>GitHubers!</i></code>
 </h1>
 
-<!-- Container -->
-<div style="display: flex; justify-content: center; align-items: center; text-align: left; gap: 80px;">
-
-  <!-- Text section -->
-  <div>
-    <h2> This is </h2>
-    <h1 style="color:#6C63FF; font-weight:bold;"><i>Ramesh Sudhan</i></h1>
-  </div>
-
-  <!-- Image section -->
-  <div>
-    <img src="./logo/gif4.gif" alt="banner" width="300" height="150"/>
-  </div>
-
-</div>
-
+<h1 align="center">
+  This is <code><i>Ramesh Sudhan</i></code>
+</h1>
 
 <p align="center">
   <a href="mailto:rameshsudhan11.com">
@@ -31,7 +18,7 @@
 </p>
 
 <p align="center">
-   <h2 align="center"> 💼 A passionate <b><span style="color:#6C63FF;"><i>Cloud Engineer</i><span></b> with a love for building scalable cloud-native solutions. </h2>
+   <h2 align="center"> 💼 A passionate <b><span><code><i>Cloud Engineer</i></code><span></b> with a love for building scalable cloud-native solutions. </h2>
 </p>
 
 <p align="center">
