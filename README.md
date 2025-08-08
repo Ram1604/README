@@ -3,8 +3,10 @@
 </p>
 
 <h1 align="center">
-  Hi <img src="./logo/githubers.png" alt="GitHubers" width="130" style="vertical-align: middle;"/>
+  Hi <img src="./logo/githubers.png" alt="GitHubers" width="130"/>
 </h1>
+
+
 
 
 
