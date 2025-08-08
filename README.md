@@ -59,4 +59,4 @@
 <p align="center"> <a href="/Resume.pdf"> <i>Click to download Resume</i> <a></p>
 
 
-<h2 align="center"> <img src="./logo/gif4.gif" alt="banner" width="300" height="150"/></i></h2>
+<h2 align="center"> <img src="./logo/gif2.gif" alt="banner"/></i></h2>
