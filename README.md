@@ -3,12 +3,8 @@
 </p>
 
 <h1 align="center">
-  Hi <img src="./logo/githubers.png" alt="GitHubers" width="130"/>
+  Hi <code style="color : cyan"><i>GitHubers!</i></code>
 </h1>
-
-
-
-
 
 <!-- Container -->
 <div style="display: flex; justify-content: center; align-items: center; text-align: left; gap: 80px;">
