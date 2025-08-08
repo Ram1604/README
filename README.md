@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi <code style="color : cyan"><i>GitHubers!</i></code>
+  Hi <font style="color : cyan"><i>GitHubers!</i></font>
 </h1>
 
 <!-- Container -->
