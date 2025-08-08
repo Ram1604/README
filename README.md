@@ -2,7 +2,10 @@
   <img src="./logo/banner.png" alt="banner" />
 </p>
 
-<h1 align="center"> Hi <span style="color:#6C63FF;"><i>GitHubers!</i></span> </h1>
+<h1 align="center">
+  Hi <img src="./logo/githubers.png" alt="GitHubers" width="130" style="vertical-align: middle;"/>
+</h1>
+
 
 
 <!-- Container -->
